@@ -1,0 +1,55 @@
+@charset "utf-8";
+.titleacerca {
+    color: #FAFF43;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 96px;
+    margin-top: -10px;
+    margin-left: 23px;
+    text-decoration: none;
+}
+.rectazul {
+    background-color: #43BFDD;
+    width: 406px;
+    height: 815px;
+    margin-top: -295px;
+    margin-left: -6px;
+    margin-bottom: 35px;
+}
+.foto {
+    margin-top: -559px;
+    margin-left: 262px;
+    margin-bottom: 333px;
+}
+.descrp {
+    color: #0F2664;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-size: 22px;
+    line-height: normal;
+    margin-top: -665px;
+    padding-top: 0px;
+    margin-left: 559px;
+}
+.home {
+    margin-top: 9px;
+    margin-left: 1212px;
+    width: 50px;
+    height: 50px;
+}
+.hola {
+    padding-left: 568px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    margin-top: 18px;
+    margin-left: -7px;
+    margin-right: 10px;
+    margin-bottom: -46px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: oblique;
+    font-variant: normal;
+    font-weight: bolder;
+    color: #43BFDD;
+    font-size: 58px;
+    line-height: 0px;
+}
