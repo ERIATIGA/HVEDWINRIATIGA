@@ -1,0 +1,532 @@
+@charset "utf-8";
+.fondo {
+    background-color: hsla(192,69%,56%,0.50);
+    width: 1366px;
+    height: 1500px;
+    margin-top: -8px;
+    margin-left: -10px;
+    background-image: url(../img/cement-wall-and-floor-for-copy-space.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    min-height: 50%;
+    min-width: 50px;
+}
+.head {
+    width: 1366px;
+    height: 100px;
+    margin-top: -1521px;
+    background-color: hsla(192,69%,56%,0.42);
+    margin-left: -11px;
+    position: fixed;
+}
+.encab {
+    width: 1366px;
+    height: 200px;
+    background-image: url(../img/bannerppal.jpg);
+}
+.footer {
+    background-color: hsla(228,65%,32%,1.00);
+    width: 1366px;
+    height: 150px;
+    margin-left: -8px;
+    margin-top: 964px;
+}
+.botones {
+    margin-top: 13px;
+    margin-left: 595px;
+    color: hsla(237,84%,29%,1.00);
+    font-family: "Montserrat SemiBold";
+}
+.ini {
+}
+.ini:hover {
+    color: hsla(0,0%,100%,1);
+}
+
+.quien {
+}
+.quien:hover {
+    color: hsla(302,86%,36%,1.00);
+}
+
+.port {
+}
+.port:hover {
+    color: hsla(302,86%,36%,1.00);
+}
+
+.cont {
+}
+.cont:hover {
+    color: hsla(302,86%,36%,1.00);
+}
+.footcont {
+    font-family: "Josefin Sans SemiBold";
+    color: hsla(190,82%,60%,1.00);
+    text-align: center;
+}
+.footerlista {
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Montserrat SemiBold";
+}
+.cont-lis-med {
+    width: 30%;
+    float: left;
+}
+
+
+.cont-lis {
+    width: 30%;
+    float: left;
+}
+footeremail {
+    width: 30px;
+}
+.cont-lis-der {
+}
+.cajacom {
+    background-color: hsla(207,89%,89%,1.00);
+    height: 56px;
+    border-radius: 16px;
+}
+.instagram {
+    height: 130px;
+    display: inline;
+    background-repeat: no-repeat;
+    background-color: hsla(0,100%,97%,1.00);
+    margin-top: 74px;
+    margin-left: 36px;
+    width: 129px;
+}
+.fotoedw {
+    width: 382px;
+    height: 500px;
+    background-image: url(../img/edwin.png);
+    background-repeat: no-repeat;
+    margin-top: -1124px;
+    margin-left: 74px;
+}
+.disgra {
+    background-color: hsla(359,100%,71%,1.00);
+    width: 265px;
+    height: 26px;
+    margin-left: 186px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Montserrat SemiBold";
+    text-align: right;
+    margin-top: 10px;
+}
+.parrafo {
+    color: hsla(224,71%,9%,1.00);
+    font-family: "Open Sans SemiBold";
+    width: 55%;
+    margin-top: 48px;
+    margin-left: 530px;
+    height: 98px;
+    text-align: justify;
+}
+.hola {
+    margin-left: 533px;
+    width: 50%;
+    margin-top: -383px;
+    color: hsla(192,69%,56%,1.00);
+    font-family: "Montserrat Black";
+    font-style: italic;
+    font-size: 57px;
+}
+#bothambur:checked ~ .listado {
+    margin-left: 100px;
+}
+.head .menuu {
+}
+
+
+
+
+
+@media (max-width: 768px){
+.botones {
+    margin-left: 88px;
+    min-width: 41%;
+    min-height: 0%;
+    max-width: 43%;
+    position: static;
+}
+#bothambur:checked ~ .mnu {
+    margin-right: 0px;
+    margin-left: 221px;
+}
+
+.fotoedw {
+    margin-left: 165px;
+}
+.disgra {
+    margin-left: 276px;
+}
+
+.hola {
+    margin-left: 249px;
+    margin-top: 30px;
+}
+.parrafo {
+    margin-left: 72px;
+    width: 576px;
+    height: 144px;
+}
+.footer {
+    width: 100%;
+    margin-left: 5px;
+    margin-top: 0px;
+}
+.footcont {
+    font-size: 22px;
+}
+.footerlista {
+    font-size: 12px;
+}
+.cajacom {
+    width: 240px;
+    height: 74px;
+    margin-left: 12px;
+}
+.encab {
+    background-size: cover;
+}
+.list {
+    margin-left: -182px;
+}
+.botmenu {
+    margin-left: -81px;
+}
+#bt_menu {
+    margin-left: -58px;
+}
+.content_portf {
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: hsla(308,95%,85%,0.67);
+}
+.galeria {
+    color: hsla(192,69%,56%,1.00);
+    font-family: "Montserrat Black";
+    font-style: italic;
+    font-size: 37px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.item_imag {
+    width: 286px;
+    height: 240px;
+}
+.item_text {
+    color: hsla(302,86%,36%,1.00);
+    font-family: "Josefin Sans SemiBold";
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 766px){
+.botones {
+    margin-left: 743px;
+    min-width: 40%;
+    min-height: 40px;
+    max-height: 43%;
+}
+.imagbothamb {
+    margin-top: 119px;
+    margin-left: 112px;
+    margin-bottom: 12px;
+    margin-right: 33px;
+    position: absolute;
+}
+.linea {
+    margin-top: -61px;
+}
+
+
+.fotoedw {
+}
+.hola {
+}
+.parrafo {
+}
+.disgra {
+}
+#bt_menu {
+    margin-left: -78px;
+}
+.list {
+    margin-left: -133px;
+}
+.galeria {
+    color: hsla(192,69%,56%,1.00);
+    font-family: "Montserrat Black";
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 218px;
+}
+.content_portf {
+    background-color: hsla(289,63%,89%,1.00);
+}
+.item_text {
+    color: hsla(302,86%,36%,1.00);
+    font-family: "Josefin Sans SemiBold";
+    font-style: italic;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 375px){
+.fotoedw {
+    width: 61%;
+    height: 248px;
+    margin-left: 64px;
+    background-size: cover;
+    margin-top: -1205px;
+}
+.footer {
+    width: 350px;
+    height: 119px;
+}
+.cont-lis {
+    font-size: 11px;
+}
+.footcont   {
+    font-size: 14px;
+}
+.footerlista {
+    font-size: 8px;
+    margin-left: -16px;
+}
+.cajacom {
+    height: 67px;
+    width: 100px;
+    margin-left: 4px;
+}
+
+
+
+
+
+
+
+.disgra {
+    margin-left: 98px;
+    width: 173px;
+    height: 25px;
+}
+.hola {
+    margin-left: 49px;
+    width: 237px;
+}
+#bothambur {
+    width: 15px;
+    height: 15px;
+    margin-top: 48px;
+    margin-bottom: -134px;
+    margin-left: 17px;
+
+}
+
+
+.parrafo {
+    margin-left: 5px;
+    font-size: 12px;
+    width: 330px;
+    height: 168px;
+    line-height: 14px;
+}
+.encab {
+    height: 131px;
+    background-size: cover;
+}
+.listado {
+    color: hsla(0,0%,100%,1.00);
+    background-color: hsla(198,91%,69%,1.00);
+    font-family: "Montserrat SemiBold";
+    font-style: oblique;
+    font-size: 21px;
+    width: 153px;
+    height: 85px;
+    margin-left: -201px;
+    margin-top: 34px;
+}
+
+
+
+.botones {
+    margin-left: 506px;
+}
+.botmenu {
+    margin-left: 17px;
+    margin-top: 42px;
+}
+.headlabel {
+	cursor: pointer;
+	
+}
+.menuu {
+    position: absolute;
+    background-color: hsla(192,76%,71%,1.00);
+    width: 166px;
+    color: hsla(0,0%,100%,1.00);
+    font-family: "Montserrat SemiBold";
+    font-style: oblique;
+    margin-left: -14%;
+    border-bottom-left-radius: 29px;
+    border-top-right-radius: 29px;
+}
+.list {
+    margin-left: 8px;
+}
+
+
+
+#bt_menu {
+    display: none;
+}
+#bt_menu:checked ~ .menuu {
+    margin-left: 82px;
+    transition: all 0.5s;
+}
+.content_portf {
+    display: grid;
+
+
+	grid-template-columns: (1, 1ft)
+;         background-position: 100% 0%;
+		
+		
+	
+}
+
+	.item_imag{
+    display: block;
+    width: 150px;
+    height: 121px;
+    margin-left: -15px;
+		
+	}
+.item_text {
+    font-size: 11px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+.botons {
+}
+#bothambur {
+}
+.imagbothamb {
+    cursor: pointer;
+    margin-top: -7px;
+    margin-left: 8px;
+    margin-bottom: -20px;
+}
+.mnu {
+	margin-left: -100%;
+	transition: all 0.5s;
+	
+		;
+	
+}
+.linea {
+}
+
+#bothambur:checked ~ .mnu{
+	margin: 0;
+	
+	}
+	
+#btn-mnu {
+}
+
+#btn-mnu:checked ~ .mnu {
+	margin-left: 32px;
+	transition: all 0.5s;
+	
+	
+	
+}
+.menu {
+}
+.botmenu {
+}
+#bt_menu {
+}
+#quien {
+}
+#portf {
+}
+#contactoo {
+}
+#hola {
+}
+#foto {
+}
+.connt {
+}
+#connt {
+}
+.galeria {
+}
+.content_portf {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+	grid-gap: 20px;
+	
+	
+	
+}
+.item {
+}
+.item_text {
+}
+.item_imag {
+}
+#portaf {
+}
